@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 4,
+        "title": "12 Angry Men",
+        "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Schindler's List",
+        "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 6,
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Aragorn is revealed as the true heir to the throne of Gondor, while Frodo and Sam continue their perilous journey to Mount Doom in order to destroy the One Ring.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 8,
+        "title": "The Good, the Bad and the Ugly",
+        "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Fight Club",
+        "description": "An insomniac office worker and a soap salesman build a global organization to help vent male aggression.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Forrest Gump",
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, the women’s movement, the Black Panther Party, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Inception",
+        "description": "A thief who enters the dreams of others to steal secrets from their subconscious is given the inverse task of planting an idea into the mind of a CEO.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 12,
+        "title": "The Matrix",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Goodfellas",
+        "description": "The true story of Henry Hill, a young man who is inducted into the mob, and his life in the criminal underworld.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 14,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "description": "A criminal pleads insanity after getting into trouble again and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Seven Samurai",
+        "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 16,
+        "title": "The Silence of the Lambs",
+        "description": "A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 17,
+        "title": "City of God",
+        "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 18,
+        "title": "It's a Wonderful Life",
+        "description": "An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he had never existed.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Life is Beautiful",
+        "description": "When an open-minded Jewish waiter and his son become prisoners of war, he uses his fertile imagination to create a humorous and brave world to help his son survive the horrors of internment.",
+        "image_url": "./images/shawshank.jpg"
+    },
+    {
+        "id": 20,
+        "title": "The Usual Suspects",
+        "description": "A sole survivor tells a tale of twisted revenge while being investigated for murder.",
+        "image_url": "./images/shawshank.jpg"
+    }
+]

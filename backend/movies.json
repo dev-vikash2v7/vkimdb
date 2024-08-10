@@ -1,0 +1,191 @@
+[
+    {
+        "title": "Inception",
+        "year": 2010,
+        "genre": "Action, Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "short_description": "A mind-bending thriller about dreams within dreams.",
+        "long_description": "Inception is a sci-fi thriller directed by Christopher Nolan, where a skilled thief is given a chance to have his criminal history erased if he can implant an idea into a target's subconscious mind. The film explores complex themes of dreams, reality, and the human mind."
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "genre": "Drama",
+        "director": "Frank Darabont",
+        "rating": 9.3,
+        "short_description": "A man's resilience and hope in a harsh prison environment.",
+        "long_description": "The Shawshank Redemption, directed by Frank Darabont, tells the story of Andy Dufresne, a man wrongly imprisoned for murder. Over two decades, he forms an unlikely friendship with fellow inmate Red and finds ways to cope with the harsh realities of prison life through hope and perseverance."
+    },
+    {
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": "Crime, Drama",
+        "director": "Francis Ford Coppola",
+        "rating": 9.2,
+        "short_description": "The saga of a powerful crime family.",
+        "long_description": "The Godfather is a classic crime film directed by Francis Ford Coppola. It follows the powerful Corleone crime family, exploring themes of power, loyalty, and betrayal. As the aging patriarch, Vito Corleone, hands over control to his reluctant son Michael, a violent power struggle ensues."
+    },
+    {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": "Action, Crime, Drama",
+        "director": "Christopher Nolan",
+        "rating": 9.0,
+        "short_description": "Batman faces the Joker in a battle for Gotham's soul.",
+        "long_description": "The Dark Knight, directed by Christopher Nolan, is a superhero film that pits Batman against the chaotic Joker, played by Heath Ledger. The film explores themes of justice, chaos, and heroism, with a gripping narrative and standout performances, making it a cornerstone of the superhero genre."
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": "Crime, Drama",
+        "director": "Quentin Tarantino",
+        "rating": 8.9,
+        "short_description": "Interwoven stories of crime and redemption in Los Angeles.",
+        "long_description": "Pulp Fiction, directed by Quentin Tarantino, is a stylized crime drama that intertwines the stories of hitmen, gangsters, and other seedy characters in Los Angeles. Known for its sharp dialogue and non-linear storytelling, the film delves into themes of fate, violence, and morality."
+    },
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": "Drama, Romance",
+        "director": "Robert Zemeckis",
+        "rating": 8.8,
+        "short_description": "A simple man’s journey through extraordinary events.",
+        "long_description": "Forrest Gump, directed by Robert Zemeckis, is a heartwarming tale of a kind-hearted, simple man who unwittingly influences historical events. Despite his limitations, Forrest experiences love, loss, and friendship, offering a poignant reflection on life’s unpredictability and the power of kindness."
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": "Drama",
+        "director": "David Fincher",
+        "rating": 8.8,
+        "short_description": "An underground fight club becomes a social revolution.",
+        "long_description": "Fight Club, directed by David Fincher, is a dark, satirical drama about an insomniac office worker who forms an underground fight club with a soap salesman, leading to a rebellious movement. The film explores themes of identity, consumerism, and the search for meaning in modern life."
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": "Action, Sci-Fi",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "rating": 8.7,
+        "short_description": "A hacker discovers the truth about reality.",
+        "long_description": "The Matrix, directed by the Wachowskis, is a groundbreaking sci-fi action film where a computer hacker discovers the truth about a simulated reality controlled by intelligent machines. The film explores philosophical themes, including the nature of reality and the illusion of choice, with revolutionary special effects."
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "genre": "Adventure, Drama, Fantasy",
+        "director": "Peter Jackson",
+        "rating": 8.8,
+        "short_description": "A hobbit’s journey to destroy a powerful ring.",
+        "long_description": "The Fellowship of the Ring, directed by Peter Jackson, is the first installment of The Lord of the Rings trilogy. It follows the journey of Frodo Baggins, a hobbit tasked with destroying a powerful ring to save Middle-earth from the dark lord Sauron. The film combines epic storytelling with stunning visuals."
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "year": 1977,
+        "genre": "Action, Adventure, Fantasy",
+        "director": "George Lucas",
+        "rating": 8.6,
+        "short_description": "A young hero joins a rebellion against an evil empire.",
+        "long_description": "A New Hope, directed by George Lucas, is the first film in the iconic Star Wars saga. It follows young Luke Skywalker as he joins a rebellion against the oppressive Galactic Empire, embarking on a heroic journey alongside Princess Leia, Han Solo, and others. The film is a cultural phenomenon, redefining the science fiction genre."
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "genre": "Crime, Drama, Thriller",
+        "director": "Jonathan Demme",
+        "rating": 8.6,
+        "short_description": "An FBI trainee seeks help from a manipulative killer.",
+        "long_description": "The Silence of the Lambs, directed by Jonathan Demme, is a psychological thriller about FBI trainee Clarice Starling, who seeks the help of the incarcerated Dr. Hannibal Lecter to catch a serial killer. The film explores themes of manipulation, fear, and the complexity of human psychology, with standout performances from Jodie Foster and Anthony Hopkins."
+    },
+    {
+        "title": "Schindler's List",
+        "year": 1993,
+        "genre": "Biography, Drama, History",
+        "director": "Steven Spielberg",
+        "rating": 8.9,
+        "short_description": "A businessman saves Jews during the Holocaust.",
+        "long_description": "Schindler's List, directed by Steven Spielberg, is a historical drama based on the true story of Oskar Schindler, a German businessman who saved over a thousand Jews during the Holocaust. The film provides a haunting portrayal of the horrors of the Holocaust, while highlighting themes of courage and humanity."
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": "Adventure, Drama, Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.6,
+        "short_description": "A mission to save humanity by exploring new worlds.",
+        "long_description": "Interstellar, directed by Christopher Nolan, is a sci-fi epic that follows a team of astronauts on a mission to find a new habitable planet as Earth faces environmental collapse. The film explores complex themes of love, sacrifice, and the power of human spirit, with breathtaking visual effects and an emotional narrative."
+    },
+    {
+        "title": "Gladiator",
+        "year": 2000,
+        "genre": "Action, Adventure, Drama",
+        "director": "Ridley Scott",
+        "rating": 8.5,
+        "short_description": "A fallen general seeks vengeance in the Roman arena.",
+        "long_description": "Gladiator, directed by Ridley Scott, is a historical epic about Maximus, a Roman general betrayed by the emperor's son and forced into slavery. As a gladiator, he seeks revenge and justice in the Roman arena. The film explores themes of honor, betrayal, and resilience, with a powerful performance by Russell Crowe."
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1999,
+        "genre": "Crime, Drama, Fantasy",
+        "director": "Frank Darabont",
+        "rating": 8.6,
+        "short_description": "A death row guard encounters a miracle worker.",
+        "long_description": "The Green Mile, directed by Frank Darabont, is a poignant drama about a death row prison guard who witnesses supernatural events after meeting John Coffey, a gentle giant with miraculous powers. The film explores themes of justice, compassion, and the human capacity for goodness, offering a moving reflection on life and death."
+    },
+    {
+        "title": "Braveheart",
+        "year": 1995,
+        "genre": "Biography, Drama, History",
+        "director": "Mel Gibson",
+        "rating": 8.3,
+        "short_description": "A Scottish warrior leads a rebellion for freedom.",
+        "long_description": "Braveheart, directed by Mel Gibson, is a historical epic that tells the story of William Wallace, a Scottish warrior who leads a rebellion against English oppression. The film combines thrilling battle sequences with a compelling narrative, exploring themes of freedom, sacrifice, and the enduring spirit of the human fight for justice."
+    },
+    {
+        "title": "The Lion King",
+        "year": 1994,
+        "genre": "Animation, Adventure, Drama",
+        "director": "Roger Allers, Rob Minkoff",
+        "rating": 8.5,
+        "short_description": "A lion cub's journey to reclaim his kingdom.",
+        "long_description": "The Lion King, directed by Roger Allers and Rob Minkoff, is a beloved animated film about Simba, a lion cub destined to be king. After the tragic loss of his father, Simba must find the courage to return and reclaim his rightful place. The film explores themes of responsibility, identity, and redemption, with memorable music and animation."
+    },
+    {
+        "title": "Back to the Future",
+        "year": 1985,
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "director": "Robert Zemeckis",
+        "rating": 8.5,
+        "short_description": "A teenager travels back in time to change history.",
+        "long_description": "Back to the Future, directed by Robert Zemeckis, is a sci-fi comedy about Marty McFly, a teenager who accidentally travels back in time using a DeLorean time machine. As he navigates the challenges of the past, he must ensure his parents fall in love to preserve his future. The film is a timeless classic with humor, adventure, and heart."
+    },
+    {
+        "title": "The Prestige",
+        "year": 2006,
+        "genre": "Drama, Mystery, Sci-Fi",
+        "director": "Christopher Nolan",
+        "rating": 8.5,
+        "short_description": "Two magicians engage in a deadly rivalry.",
+        "long_description": "The Prestige, directed by Christopher Nolan, is a mind-bending drama about two rival magicians in 19th-century London. As they engage in a deadly battle of wits, the film explores themes of obsession, sacrifice, and the blurred line between illusion and reality. With an intricate plot and outstanding performances, it keeps audiences guessing until the end."
+    },
+    {
+        "title": "The Departed",
+        "year": 2006,
+        "genre": "Crime, Drama, Thriller",
+        "director": "Martin Scorsese",
+        "rating": 8.5,
+        "short_description": "An undercover cop and a mole in the mob face off.",
+        "long_description": "The Departed, directed by Martin Scorsese, is a gripping crime thriller set in Boston, where an undercover cop and a mole in the Irish mob try to uncover each other's identities. The film explores themes of loyalty, deception, and the blurred lines between good and evil, with an intense narrative and a stellar cast."
+    },
+    {
+        "title": "The Social Network",
+        "year": 2010,
+        "genre": "Biography, Drama",
+        "director": "David Fincher",
+        "rating": 7.7,
+        "short_description": "The story behind the creation of Facebook.",
+        "long_description": "The Social Network, directed by David Fincher, is a biographical drama that chronicles the rise of Facebook and its founder, Mark Zuckerberg. The film explores themes of ambition, betrayal, and the complexities of human relationships, offering a gripping insight into the world of tech and entrepreneurship. With sharp dialogue and compelling performances, it delves into the consequences of success."
+    }
+]

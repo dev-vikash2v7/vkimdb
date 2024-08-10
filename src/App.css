@@ -1,0 +1,184 @@
+/* General styles */
+body {
+  font-family: Georgia, serif;
+  /* background-image: url('/images/movies2.jpg');  */
+  background: var(--color-bg);
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar styles */
+.navbar {
+  margin-bottom: 2rem;
+  background-color: #337457; /* Dark blue background color */
+}
+
+.navbar-logo {
+  height: 40px; /* Adjust logo height as needed */
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important; /* Navbar link color */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ddd !important; /* Navbar link hover color */
+}
+
+.navbar-nav .nav-dropdown-menu {
+  background-color: #4175a9; /* Navbar dropdown background color */
+}
+
+.navbar-nav .nav-dropdown-item {
+  color: #fff; /* Dropdown item color */
+}
+
+.navbar-nav .nav-dropdown-item:hover {
+  background-color: #495057; /* Dropdown item hover background color */
+}
+
+/* Custom styles for movie cards */
+.movie-card {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem; /* Adjusted padding for better spacing */
+  background: white; /* White background for better readability */
+  border-radius: 8px; /* Rounded corners */
+  transition: transform 0.2s;
+  margin-bottom: 1rem; /* Space between movie cards */
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+}
+
+.movie-image {
+  flex-shrink: 0; /* Prevent the image from shrinking */
+  width: 150px; /* Image width */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Rounded corners for image */
+}
+
+.movie-content {
+  flex-grow: 1; /* Allow the content to take up the remaining space */
+  margin-left: 0.75rem; /* Space between the image and content */
+}
+
+.movie-content h5 {
+  margin-top: 0;
+}
+
+.movie-content p {
+  margin: 0;
+}
+
+.movie-content p + p {
+  margin-top: 0.5rem; /* Space between description and rating */
+}
+
+/* Detail page styles */
+.detail-container {
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.8); /* Slightly transparent white background */
+  border-radius: 8px; /* Rounded corners */
+  color: black; /* Text color */
+  max-width: 800px;
+  margin: 2rem auto; /* Center the container */
+}
+
+.detail-container h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem; /* Adjusted font size */
+  color: #333; /* Darker text color */
+}
+
+.detail-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.detail-container p {
+  font-size: 1rem; /* Adjusted font size */
+  line-height: 1.5;
+  margin-bottom: 1rem;
+  color: #555; /* Softer text color */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .movie-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.5rem; /* Adjust padding for smaller screens */
+  }
+
+  .movie-image {
+    width: 100%; /* Ensure image fits container */
+    height: auto;
+    margin-bottom: 0.5rem; /* Space between image and content */
+  }
+
+  .movie-content {
+    margin-left: 0; /* Remove margin on smaller screens */
+  }
+
+  .movie-content h5 {
+    font-size: 1.2rem; /* Adjust font size for smaller screens */
+  }
+
+  .movie-content p {
+    font-size: 0.9rem; /* Adjust font size for smaller screens */
+  }
+
+  .detail-container {
+    padding: 1rem; /* Adjust padding for smaller screens */
+    margin: 1rem auto; /* Adjust margin for smaller screens */
+  }
+
+  .detail-container h1 {
+    font-size: 1.5rem; /* Adjust font size for smaller screens */
+  }
+
+  .detail-container p {
+    font-size: 0.9rem; /* Adjust font size for smaller screens */
+  }
+}
+
+/* Pagination Button Styling */
+.pagination-button {
+  margin: 0 0.25rem; /* Space between pagination buttons */
+}
+
+.pagination-button.active {
+  background-color: #6c757d; /* Active button color */
+  color: white;
+}
+
+.pagination-button:hover {
+  background-color: #5a6268; /* Hover state for pagination buttons */
+}
+
+/* Optional: Styling for card images to ensure they fit within their container */
+.card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Rating Alignment */
+.rating-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Space between text and stars */
+}
+
+.rating-stars {
+  display: flex;
+}
